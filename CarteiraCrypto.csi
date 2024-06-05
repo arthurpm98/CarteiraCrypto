@@ -1,0 +1,44 @@
+[History]
+1=#P0#=mb	#P1#=optMoeda_Click	#P2#=CarteiraCrypto/FormPainel/optMoeda_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20240530112922	#P7#=0	#P8#=1	.
+2=#P0#=mb	#P1#=ControlaMarcacaoFiltros	#P2#=CarteiraCrypto/mdlPainel/ControlaMarcacaoFiltros	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20240530122214	#P7#=0	#P8#=0	.
+3=#P0#=mb	#P1#=GravaRespostaRequisicaoEmArquivo	#P2#=CarteiraCrypto/mdlPainel/GravaRespostaRequisicaoEmArquivo	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20240530110734	#P7#=0	#P8#=15	.
+4=#P0#=mb	#P1#=cmdPesquisar_Click	#P2#=CarteiraCrypto/FormPainel/cmdPesquisar_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20240530110304	#P7#=0	#P8#=11	.
+5=#P0#=mb	#P1#=RealizaRequisicao	#P2#=CarteiraCrypto/mdlPainel/RealizaRequisicao	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20240530110259	#P7#=0	#P8#=17	.
+6=#P0#=mb	#P1#=VerificaPrecoMaisBaixo	#P2#=CarteiraCrypto/mdlPainel/VerificaPrecoMaisBaixo	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20240530110113	#P7#=0	#P8#=22	.
+7=#P0#=mb	#P1#=PreencheGridPainel	#P2#=CarteiraCrypto/mdlPainel/PreencheGridPainel	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20240530110049	#P7#=0	#P8#=1	.
+8=#P0#=mb	#P1#=TratamentoRespostaRequisicao	#P2#=CarteiraCrypto/mdlPainel/TratamentoRespostaRequisicao	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20240530105308	#P7#=0	#P8#=2	.
+9=#P0#=mb	#P1#=BRL	#P2#=CarteiraCrypto/mdlPainel/BRL [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20240530103830	#P7#=0	#P8#=-22	.
+10=#P0#=mb	#P1#=AguardeProcessamento	#P2#=CarteiraCrypto/mdlGlobal/AguardeProcessamento	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20240528174545	#P7#=0	#P8#=2	.
+11=#P0#=mb	#P1#=TestaConexaoAPI	#P2#=CarteiraCrypto/mdlGlobal/TestaConexaoAPI	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20240528174429	#P7#=0	#P8#=16	.
+12=#P0#=mb	#P1#=URLAPI	#P2#=CarteiraCrypto/mdlGlobal/URLAPI [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20240528173609	#P7#=0	#P8#=-1	.
+13=#P0#=mb	#P1#=HORACOTACAO	#P2#=CarteiraCrypto/mdlPainel/HORACOTACAO [Let]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20240528162950	#P7#=0	#P8#=2	.
+14=#P0#=mb	#P1#=MontaQueryFiltrosPainel	#P2#=CarteiraCrypto/mdlPainel/MontaQueryFiltrosPainel	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20240528155655	#P7#=0	#P8#=1	.
+15=#P0#=mb	#P1#=VerificaCheckboxMarcado	#P2#=CarteiraCrypto/mdlPainel/VerificaCheckboxMarcado	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20240528155419	#P7#=0	#P8#=3	.
+16=#P0#=mb	#P1#=Main	#P2#=CarteiraCrypto/mdlGlobal/Main	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20240528150751	#P7#=0	#P8#=5	.
+17=#P0#=mb	#P1#=PRECOBAIXODIA	#P2#=CarteiraCrypto/mdlPainel/PRECOBAIXODIA [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20240527181644	#P7#=0	#P8#=2	.
+18=#P0#=mb	#P1#=HORACOTACAO	#P2#=CarteiraCrypto/mdlPainel/HORACOTACAO [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20240524190808	#P7#=0	#P8#=8	.
+19=#P0#=mb	#P1#=DATACOTACAO	#P2#=CarteiraCrypto/mdlPainel/DATACOTACAO [Let]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20240524190803	#P7#=0	#P8#=1	.
+20=#P0#=mb	#P1#=PRECOBAIXOANO	#P2#=CarteiraCrypto/mdlPainel/PRECOBAIXOANO [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20240524190711	#P7#=0	#P8#=2	.
+21=#P0#=mb	#P1#=PRECOBAIXOMES	#P2#=CarteiraCrypto/mdlPainel/PRECOBAIXOMES [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20240524190703	#P7#=0	#P8#=8	.
+22=#P0#=mb	#P1#=DATACOTACAO	#P2#=CarteiraCrypto/mdlPainel/DATACOTACAO [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20240524190654	#P7#=0	#P8#=1	.
+23=#P0#=mb	#P1#=PRECOBAIXOSEMANA	#P2#=CarteiraCrypto/mdlPainel/PRECOBAIXOSEMANA [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20240524190635	#P7#=0	#P8#=8	.
+24=#P0#=mb	#P1#=PRECOBAIXOSEMANA	#P2#=CarteiraCrypto/mdlPainel/PRECOBAIXOSEMANA [Let]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20240524190629	#P7#=0	#P8#=8	.
+25=#P0#=mb	#P1#=PRECO	#P2#=CarteiraCrypto/mdlPainel/PRECO [Let]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20240524190355	#P7#=0	#P8#=8	.
+26=#P0#=mb	#P1#=PRECO	#P2#=CarteiraCrypto/mdlPainel/PRECO [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20240524190340	#P7#=0	#P8#=8	.
+27=#P0#=mb	#P1#=MOEDACOMPRA	#P2#=CarteiraCrypto/mdlPainel/MOEDACOMPRA [Let]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20240524185418	#P7#=0	#P8#=0	.
+28=#P0#=mb	#P1#=MOEDACOMPRA	#P2#=CarteiraCrypto/mdlPainel/MOEDACOMPRA [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20240524185121	#P7#=0	#P8#=2	.
+29=#P0#=mb	#P1#=RemoveCaracterEspecial	#P2#=CarteiraCrypto/mdlGlobal/RemoveCaracterEspecial	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20240524184323	#P7#=0	#P8#=0	.
+30=#P0#=mb	#P1#=MOEDAUTILIZADA	#P2#=CarteiraCrypto/mdlPainel/MOEDAUTILIZADA [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20240524182548	#P7#=0	#P8#=1	.
+31=#P0#=mb	#P1#=BTC	#P2#=CarteiraCrypto/mdlPainel/BTC [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20240524182330	#P7#=0	#P8#=-1	.
+32=#P0#=mb	#P1#=BTC	#P2#=CarteiraCrypto/mdlPainel/BTC [Let]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20240524182239	#P7#=0	#P8#=1	.
+33=#P0#=mb	#P1#=ETH	#P2#=CarteiraCrypto/mdlPainel/ETH [Let]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20240524182214	#P7#=0	#P8#=-1	.
+34=#P0#=mb	#P1#=chkMoeda_Click	#P2#=CarteiraCrypto/FormPainel/chkMoeda_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20240530122204	#P7#=0	#P8#=1	.
+35=#P0#=mb	#P1#=APIKEY	#P2#=CarteiraCrypto/mdlGlobal/APIKEY [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20240523192032	#P7#=0	#P8#=0	.
+36=#P0#=mb	#P1#=VerificaOptionMarcado	#P2#=CarteiraCrypto/mdlPainel/VerificaOptionMarcado	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20240523184002	#P7#=0	#P8#=0	.
+37=#P0#=mb	#P1#=paxg	#P2#=CarteiraCrypto/mdlPainel/paxg [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20240523094442	#P7#=0	#P8#=-1	.
+38=#P0#=mb	#P1#=USDT	#P2#=CarteiraCrypto/mdlPainel/USDT [Let]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20240522195649	#P7#=0	#P8#=0	.
+39=#P0#=mb	#P1#=ETH	#P2#=CarteiraCrypto/mdlPainel/ETH [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20240522195622	#P7#=0	#P8#=2	.
+40=#P0#=mb	#P1#=PAXG	#P2#=CarteiraCrypto/mdlPainel/PAXG [Let]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20240522195518	#P7#=0	#P8#=1	.
+41=#P0#=mb	#P1#=USDT	#P2#=CarteiraCrypto/mdlPainel/USDT [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20240522195504	#P7#=0	#P8#=1	.
+42=#P0#=mb	#P1#=BRL	#P2#=CarteiraCrypto/mdlPainel/BRL [Let]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20240522195420	#P7#=0	#P8#=1	.
+43=#P0#=mb	#P1#=APIHOST	#P2#=CarteiraCrypto/mdlGlobal/APIHOST [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20240522190341	#P7#=0	#P8#=-1	.
